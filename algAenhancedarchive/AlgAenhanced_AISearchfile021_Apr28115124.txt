@@ -1,0 +1,5 @@
+USER = tvnj26 (Theo Hinton-Hallows),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile021.txt,
+SIZE = 21, TOUR LENGTH = 3140,
+15,14,11,19,8,2,0,6,10,18,17,7,9,20,4,12,3,16,5,13,1,
+NOTE = 
